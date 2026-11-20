@@ -6,7 +6,7 @@ A modern, responsive web application built with **React**, **TypeScript**, **Tai
 
 ## 🚀 Live Demo & Links
 - **Live Site:** [https://devstack-builder.web.app](https://devstack-builder.web.app) *(Replace with your deployment link)*
-- **GitHub Repository:** [https://github.com/your-username/B14-A05-DevStack](https://github.com/your-username/B14-A05-DevStack)
+- **GitHub Repository:** [https://github.com/shihab242-15-400-hash/B14-A05-DevStack](https://github.com/shihab242-15-400-hash/B14-A05-DevStack)
 
 ---
 
@@ -48,7 +48,7 @@ A modern, responsive web application built with **React**, **TypeScript**, **Tai
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/B14-A05-DevStack.git
+   git clone https://github.com/shihab242-15-400-hash/B14-A05-DevStack.git
    cd B14-A05-DevStack
    ```
 
