@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "react-toastify/dist/ReactToastify.css";
+
+:root {
+  /* Shared brand gradient (orange -> pink -> violet)
+     Define the gradient in this single variable to re-theme the entire UI */
+  --brand-gradient: linear-gradient(135deg, #FF5E3A 0%, #E11D74 52%, #8B5CF6 100%);
+  --brand-gradient-hover: linear-gradient(135deg, #EA580C 0%, #BE123C 52%, #7C3AED 100%);
+}
+
+.brand-gradient {
+  background: var(--brand-gradient);
+}
+
+.brand-gradient:hover {
+  background: var(--brand-gradient-hover);
+}
+
+.brand-gradient-text {
+  background: var(--brand-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom scrollbar */
+html {
+  scroll-behavior: smooth;
+}
